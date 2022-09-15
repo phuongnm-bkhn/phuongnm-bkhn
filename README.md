@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - :relieved: I’m currently studying Semantic Parsing (mapping a natural language to semantic logic representation), Spoken Language Understanding, Neural Machine Translation, QA, Sentiment, etc. in Natural Language Processing.
 - 📫 How to reach me: nguyenphuong.cnbt@gmail.com
 
-[![stat](https://github-readme-stats.vercel.app/api?username=phuongnm-bkhn&count_private=true&show_icons=true)](https://github.com/phuongnm-bkhn/phuongnm-bkhn) 
+[![stat](https://github-readme-stats.vercel.app/api?username=phuongnm-bkhn&show_icons=true&count_private=true)](https://github.com/phuongnm-bkhn/phuongnm-bkhn) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuongnm-bkhn&layout=compact)](https://github.com/phuongnm-bkhn/phuongnm-bkhn)
 <!--
 <a href="https://github.com/phuongnm-bkhn/legal_text_retrieval">
