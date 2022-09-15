@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phuongnm-bkhn&count_private=true&show_icons=true)](https://github.com/phuongnm-bkhn/phuongnm-bkhn) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuongnm-bkhn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--
 <a href="https://github.com/phuongnm-bkhn/legal_text_retrieval">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phuongnm-bkhn&repo=legal_text_retrieval" />
 </a>
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/phuongnm-bkhn/OpenQA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phuongnm-bkhn&repo=OpenQA" />
 </a>
-<!--
+
 <a href="https://github.com/phuongnm-bkhn/erc-sentiment">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phuongnm-bkhn&repo=erc-sentiment" />
 </a> -->
